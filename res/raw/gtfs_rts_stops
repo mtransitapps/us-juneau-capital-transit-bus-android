@@ -7,7 +7,7 @@
 404,'404','Glacier Ave & 9th St (Federal Bldg)',58.30130758,-134.4210596
 405,'405','Glacier Ave & 12th St',58.30277885,-134.4229993
 406,'406','Glacier Ave & Behrends Ave (JDHS)',58.304728,-134.426865
-407,'407','Glacier Ave & Highland Dr (Breakwater INN)',58.30636796,-134.4308783
+407,'407','Glacier Ave & Ross Way',58.307713,-134.433901
 408,'408','Glacier Hwy @ 1547 Glacier Hwy (S Curves)',58.31333778,-134.4434735
 409,'409','Hosp Dr @ Bartlett Regional Hosp',58.32944191,-134.4657136
 410,'410','Salmon Crk Ln @ SEARHC Clinic & Vly Medical Care',58.33099229,-134.4659317
@@ -173,3 +173,4 @@
 570,'570','Julep St & Trio St',58.3890356234032,-134.580436892355
 571,'571','Julep St & Riverside Dr',58.3880429918989,-134.583025364418
 572,'572','Riverside Dr & James Blvd',58.3746408948598,-134.590116441863
+573,'573','Glacier Hwy & Radcliffe Rd',58.369031,-134.595509
