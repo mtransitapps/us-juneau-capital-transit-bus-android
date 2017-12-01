@@ -5,7 +5,7 @@ Juneau Capital Transit Bus for MonTransit.
 Schedule…
 ----------
 What's new in this version?:
-Schedule from January 1, 2016 to December 31, 2017.
+Schedule from January 1, 2016 to December 31, 2018.
 ----------
 Full description:
 This app adds Juneau Capital Transit buses information to MonTransit.
