@@ -6,7 +6,7 @@
     <string name="gtfs_rts_timezone">America/Anchorage</string>
     <string name="gtfs_rts_area_min_lat">58.274981</string>
     <string name="gtfs_rts_area_max_lat">58.40536</string>
-    <string name="gtfs_rts_area_min_lng">-134.644063</string>
+    <string name="gtfs_rts_area_min_lng">-134.64429287</string>
     <string name="gtfs_rts_area_max_lng">-134.390063</string>
     <string name="gtfs_rts_color">000080</string>
 </resources>
