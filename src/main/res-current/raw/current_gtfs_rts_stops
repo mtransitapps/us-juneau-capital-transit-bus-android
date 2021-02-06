@@ -36,12 +36,12 @@
 433,'433','Mendenhall Loop Rd & Nancy St',58.37553,-134.57866
 434,'434','Mendenhall Loop Rd & Cinema Dr',58.38095,-134.577
 435,'435','Mendenhall Loop Rd & Haloff Way',58.38427,-134.57556
-436,'436','Mendenhall Loop Rd & Floyd Dryden Access Rd (Floyd Dryden Middle School)',58.388682,-134.57073
+436,'436','Mendenhall Loop Rd & Floyd Dryden Access Rd (Floyd Dryden MS)',58.388682,-134.57073
 437,'437','Mendenhall Loop Rd & Vly Blvd',58.39118,-134.56723
 438,'438','Mendenhall Loop Rd & Thounder Mtn Rd',58.39416,-134.56399
 439,'439','Mendenhall Loop Rd & Dredge Lk Rd',58.39797981,-134.5609434
 440,'440','Mendenhall Loop Rd & Chelsea Court',58.39902197,-134.5752294
-441,'441','Mendenhall Loop Rd @ Mendenhall River Elementary School',58.40322898,-134.5832225
+441,'441','Mendenhall Loop Rd @ Mendenhall River ES',58.40322898,-134.5832225
 442,'442','Mendenhall Loop Rd & River Rd',58.40494,-134.58952
 443,'443','Mendenhall Loop Rd & Montana Crk Rd',58.40536,-134.59625
 444,'444','Mendenhall Loop Rd & Wren Dr',58.40245,-134.60584
@@ -66,12 +66,12 @@
 464,'464','Mendenhall Loop Rd & Wren Dr',58.402528,-134.605455
 465,'465','Mendenhall Loop Rd & Montana Crk Rd',58.4051,-134.59707
 466,'466','Mendenhall Loop Rd & River Rd',58.40486,-134.58943
-467,'467','Mendenhall Loop Rd @ Mendenhall River Elementary School',58.40302,-134.58311
+467,'467','Mendenhall Loop Rd @ Mendenhall River ES',58.40302,-134.58311
 468,'468','Mendenhall Loop Rd & Mint Way',58.39926,-134.57696
 469,'469','Mendenhall Loop Rd & Mendenhall Loop Rd (Dredge Lk)',58.39782,-134.56098
 470,'470','Mendenhall Loop Rd & Thunder Mtn Rd',58.394098,-134.564486
 471,'471','Mendenhall Loop Rd & Mendenhall Blvd',58.390794,-134.568337
-472,'472','Mendenhall Loop Rd & El Camino St (Floyd Dryden Middle School)',58.388408,-134.571639
+472,'472','Mendenhall Loop Rd & El Camino St (Floyd Dryden MS)',58.388408,-134.571639
 473,'473','Mendenhall Loop Rd & Stephen Richards Memorial Dr',58.383697,-134.576442
 474,'474','Mendenhall Loop Rd & Cinema Dr',58.38061,-134.57735
 475,'475','Mendenhall Loop Rd & Nancy St',58.37539,-134.579285
@@ -125,12 +125,12 @@
 523,'523','3rd St & Crk St',58.284564,-134.4104
 524,'524','3rd St & Crow Hl Dr',58.282791,-134.406935
 525,'525','3rd St & Chatham Pl Dr (Geneva Woods)',58.280523,-134.402595
-526,'526','3rd St & I St (Gastineau Elementary School)',58.27939,-134.400291
+526,'526','3rd St & I St (Gastineau ES)',58.27939,-134.400291
 527,'527','3rd St & E St (Douglas Library)',58.27687,-134.39557
 528,'528','3rd St & C St (Douglas Post Office)',58.27615225,-134.3937126
 529,'529','3rd St & C St (Douglas Post Office)',58.276012561273,-134.393819550926
 530,'530','St Anns Ave & E St (Douglas Library)',58.27693075,-134.3952433
-531,'531','3rd St @ Gastineau Elementary School',58.27941208,-134.4000922
+531,'531','3rd St @ Gastineau ES',58.27941208,-134.4000922
 532,'532','3rd St & Channel Ter Dr (Geneva Woods)',58.28036958,-134.4018547
 533,'533','3rd St & Crow Hl Dr',58.282916,-134.406994
 534,'534','3rd St & Old Lawson Crk Dr',58.284623,-134.410148
