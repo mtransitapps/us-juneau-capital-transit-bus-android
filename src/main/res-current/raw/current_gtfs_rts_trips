@@ -1,8 +1,9 @@
 100,0,'Loop',1
 300,0,'Loop',3
 400,0,'Loop',4
-500,0,'Loop',5
-501,0,'U Of Alaska',5
+501,0,'Federal Bldg',5
+500,0,'U Of Alaska',5
+601,0,'Federal Bldg',6
 600,0,'Loop',6
 700,0,'Downtown Juneau',7
 800,0,'Auke Bay',8
