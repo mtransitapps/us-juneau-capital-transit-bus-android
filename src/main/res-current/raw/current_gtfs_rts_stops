@@ -1,8 +1,9 @@
 200,'200','Mallard St & Crest St (Nugget Mall Vly)',58.36191,-134.57543
 300,'300','Downtown TC',58.29973,-134.40874
+401,'401','Willoughby Ave & Egan Dr (Centennial Hall)',58.30002753,-134.41115
 402,'402','Willoughby Ave & Whittier Way (ANB Hall)',58.30137881,-134.4150394
 403,'403','Willoughy Ave & D St (Foodland IGA)',58.3006888,-134.4183587
-404,'404','Willoughby Ave & Egan Dr (Centennial Hall)',58.30002753,-134.41115
+404,'404','Glacier Ave & 9th St (Federal Bldg)',58.30130758,-134.4210596
 405,'405','Glacier Ave & 12th St',58.30277885,-134.4229993
 406,'406','Glacier Ave & Behrends Ave (JDHS)',58.304728,-134.426865
 407,'407','Glacier Ave & Ross Way',58.307713,-134.433901
@@ -15,7 +16,7 @@
 414,'414','Glacier Hwy & Craig St',58.34317879,-134.4936615
 415,'415','Glacier Hwy @ Juneau Pioneers Home',58.3444953,-134.495507
 416,'416','Glacier Hwy & Hooter Ln (Vanderbuilt Hl)',58.3470779967678,-134.494004489549
-417,'417','Glacier Hwy & Short St (Western Auto)',58.34999598,-134.4913561
+417,'417','Glacier Hwy & Short St (Western Auto)',58.3517916975724,-134.491288371455
 418,'418','Glacier Hwy & Tonsgard Court (Anka St)',58.35577056,-134.4950969
 419,'419','Lemon Crk Rd & Lemon Crk Rd (Lemon Crk Turnaround)',58.36119722,-134.4886796
 420,'420','Lemon Crk Rd & Churchill Rd',58.36035379,-134.4923354
@@ -82,7 +83,7 @@
 482,'482','Glacier Hwy & Renniger St (Switzer Vlg)',58.359241,-134.513943
 483,'483','Glacier Hwy & Alaway Ave',58.359547,-134.507125
 484,'484','Glacier Hwy & Tonsgard Court',58.355614,-134.494761
-485,'485','Glacier Hwy & Short St (Western Auto)',58.349995,-134.491612
+485,'485','Glacier Hwy & Short St (Western Auto)',58.3518753518014,-134.491393131045
 486,'486','Glacier Hwy & Hooter Ln (Vanderbuilt Hl)',58.347021,-134.494396
 487,'487','Glacier Hwy & Craig St',58.342564,-134.493048
 488,'488','Glacier Hwy & Blackerby St',58.338253,-134.488755
@@ -154,6 +155,6 @@
 570,'570','Julep St & Trio St',58.3890356234032,-134.580436892355
 571,'571','Julep St & Riverside Dr',58.3880429918989,-134.583025364418
 572,'572','Riverside Dr & James Blvd',58.3746408948598,-134.590116441863
-3449151,'','Jordan Crk Ctr / Glacier Hwy & Jordan Ave',58.3634128561921,-134.578704117886
-3449152,'','Nugget Mall / Glacier Hwy & Jordan Ave',58.3631153656652,-134.578756004866
-3449153,'','Teal St Ctr / Teal St & Alpine Ave',58.3605327241703,-134.577520277357
+577,'577','Nugget Mall / Glacier Hwy & Jordan Ave',58.3631153656652,-134.578756004866
+578,'578','Jordan Crk Ctr / Glacier Hwy & Jordan Ave',58.3634128561921,-134.578704117886
+579,'579','Teal St Ctr / Teal St & Alpine Ave',58.3605327241703,-134.577520277357
