@@ -34,7 +34,7 @@
 433,'433','Mendenhall Loop Rd & Nancy St',58.37553,-134.57866
 434,'434','Mendenhall Loop Rd & Cinema Dr',58.38095,-134.577
 435,'435','Mendenhall Loop Rd & Haloff Way',58.38427,-134.57556
-436,'436','Mendenhall Loop Rd & Floyd Dryden Access Rd (Floyd Dryden MS)',58.388682,-134.57073
+436,'436','Mendenhall Loop Rd & Floyd Dryden Access Rd (Floyd Dryden MS)',58.3888760207689,-134.570279774203
 437,'437','Mendenhall Loop Rd & Vly Blvd',58.39118,-134.56723
 438,'438','Mendenhall Loop Rd & Thounder Mtn Rd',58.39416,-134.56399
 439,'439','Mendenhall Loop Rd & Dredge Lk Rd',58.39797981,-134.5609434
@@ -69,11 +69,11 @@
 469,'469','Mendenhall Loop Rd & Mendenhall Loop Rd (Dredge Lk)',58.39782,-134.56098
 470,'470','Mendenhall Loop Rd & Thunder Mtn Rd',58.394098,-134.564486
 471,'471','Mendenhall Loop Rd & Mendenhall Blvd',58.390794,-134.568337
-472,'472','Mendenhall Loop Rd & El Camino St (Floyd Dryden MS)',58.388408,-134.571639
+472,'472','Mendenhall Loop Rd & El Camino St (Floyd Dryden MS)',58.3881932218592,-134.571628484983
 473,'473','Mendenhall Loop Rd & Stephen Richards Memorial Dr',58.383697,-134.576442
 474,'474','Mendenhall Loop Rd & Cinema Dr',58.38061,-134.57735
 475,'475','Mendenhall Loop Rd & Nancy St',58.37539,-134.579285
-476,'476','Mendenhall Loop Rd & James Boulvard',58.37347,-134.58235
+476,'476','Mendenhall Loop Rd & James Boulvard',58.3732611664792,-134.582487100531
 477,'477','Mendenhall Mall Rd @ Mendenhall Mall',58.37234,-134.59035
 478,'478','Mendenhall Loop Rd & Del Rae Rd (Skate Pk)',58.367912,-134.588853
 479,'479','Old Dairy Rd & Glacier Hwy (Fred Meyer)',58.359525,-134.558136
@@ -146,29 +146,7 @@
 547,'547','Savikko Rd @ Treadwell Ice Arena',58.274981,-134.390063
 548,'548','Riverside Dr & Riverwood Dr (Dimond Pk)',58.3778573,-134.5878759
 549,'549','Stephen Richards Memorial Dr & Coho Dr',58.383899,-134.581449
-550,'550','North Douglas Hwy @ Petro Marine Services',58.2988518,-134.4381738
-551,'551','North Douglas Hwy @ Channelview Trailer Pk',58.3130986,-134.4604254
-552,'552','North Douglas Hwy & Bonnie Doon Dr',58.329886,-134.4956803
-553,'553','North Douglas Hwy West Of Ski St',58.3399816,-134.5603189
-554,'554','Sundown Dr & Horizon Dr',58.337529,-134.5915103
-555,'555','Starlite Court',58.3378599,-134.5939055
-556,'556','North Douglas Hwy East Of Eagle Crest Rd',58.33989,-134.5602357
-557,'557','North Doulgas Hwy & Bonnie Doon Dr',58.3298155,-134.4957554
-558,'558','North Douglas Hwy @ Channelview Trailer Pk',58.3131184,-134.4606373
-559,'559','North Douglas Hwy @ Petro Marine Services',58.2987348,-134.4383052
 560,'560','Glacier Hwy Opp Davis Ave',58.3577557296084,-134.501569374166
-561,'561','Riverside Dr & Stephen Richards Memorial Dr',58.384249,-134.583412
-562,'562','Taku Blvd & Aspen Ave',58.3952910038026,-134.566453381615
-563,'563','Taku Blvd & Taku Court',58.3975391699547,-134.569241982803
-564,'564','Opp 4338 Taku Blvd',58.3976371457136,-134.572401311743
-565,'565','Taku Blvd Before Albatross St',58.3976953358277,-134.576853436295
-566,'566','Taku Blvd & Wood Duck Ave',58.3962765876897,-134.579471050262
-567,'567','Julep St & Decoy Blvd',58.3953914056235,-134.58034274107
-568,'568','Julep St & Birch Ln',58.393075570227,-134.58029004304
-569,'569','Julep St & Division St',58.3908679079215,-134.580298025498
-570,'570','Julep St & Trio St',58.3890356234032,-134.580436892355
-571,'571','Julep St & Riverside Dr',58.3880429918989,-134.583025364418
-572,'572','Riverside Dr & James Blvd',58.3746408948598,-134.590116441863
 577,'577','Glacier Hwy & Jordan Ave (Nugget Mall)',58.3631153656652,-134.578756004866
 578,'578','Glacier Hwy & Jordan Ave (Nugget Mall / Jordan Crk Ctr)',58.3634128561921,-134.578704117886
 579,'579','Teal St Ctr / Teal St & Alpine Ave',58.3605327241703,-134.577520277357
