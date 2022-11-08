@@ -29,7 +29,6 @@
 428,'428','Glacier Hwy & Shell Simmons Dr (Wells Fargo)',58.36302346,-134.5836473
 429,'429','Glacier Hwy @ Vly Restaurant',58.36498264,-134.588928
 430,'430','Mendenhall Loop Rd & Del Rae Rd (Skate Pk)',58.367844,-134.588425
-431,'431','Mendenhall Mall Rd & Riverside Dr (Mendenhall Mall)',58.37222,-134.58992
 432,'432','Mendenhall Loop Rd & Atlin Dr',58.37189,-134.58401
 433,'433','Mendenhall Loop Rd & Nancy St',58.37553,-134.57866
 434,'434','Mendenhall Loop Rd & Cinema Dr',58.38095,-134.577
@@ -74,7 +73,6 @@
 474,'474','Mendenhall Loop Rd & Cinema Dr',58.38061,-134.57735
 475,'475','Mendenhall Loop Rd & Nancy St',58.37539,-134.579285
 476,'476','Mendenhall Loop Rd & James Boulvard',58.3732611664792,-134.582487100531
-477,'477','Mendenhall Mall Rd @ Mendenhall Mall',58.37234,-134.59035
 478,'478','Mendenhall Loop Rd & Del Rae Rd (Skate Pk)',58.367912,-134.588853
 479,'479','Old Dairy Rd & Glacier Hwy (Fred Meyer)',58.359525,-134.558136
 480,'480','Glacier Hwy @ Humane Society',58.359563,-134.550831
@@ -97,22 +95,6 @@
 497,'497','Marine Way @ Downtown Library',58.2984991,-134.4041047
 498,'498','Franklin St & Front St (Pocket Pk)',58.300564,-134.40548
 499,'499','4th St & Seward St',58.302188,-134.409438
-500,'500','Taku Blvd & Aspen Ave',58.39544,-134.56633
-501,'501','Taku Blvd & Taku Court',58.39775,-134.56936
-502,'502','Taku Blvd',58.3978,-134.57202
-503,'503','Taku Blvd & Albatross St',58.39778,-134.57707
-504,'504','Talu Blvd & Wood Duck Ave',58.39633,-134.57975
-505,'505','Julep St & Decoy Blvd',58.39539,-134.58056
-506,'506','Julep St & Birch Ln',58.39315,-134.58042
-507,'507','Julep St & Division St',58.39083,-134.58048
-508,'508','Julep St & Trio St',58.38917,-134.58059
-509,'509','Julep St & Riverside Dr',58.38814,-134.58302
-510,'510','Riverside Dr & Rivercourt Way',58.380704,-134.58794
-511,'511','Riverside Dr & Riverwood Dr',58.377154,-134.588292
-512,'512','Riverside Dr & James Blvd',58.3747,-134.59033
-513,'513','Radcliffe Rd & Speel Way',58.36892,-134.59643
-514,'514','Radcliffe Rd & Eagle St',58.36671,-134.59578
-515,'515','Berners Ave & Ladd St',58.36342,-134.59128
 516,'516','F St & 12th St (Mtn Vw Senior Ctr)',58.302508,-134.424275
 517,'517','3rd St & Cordova St (Breeze In)',58.296046,-134.432023
 518,'518','Foster Ave & Cedar Pk Rd (Cedar Pk)',58.295273,-134.434882
@@ -139,15 +121,29 @@
 539,'539','3rd St & Cordova St (Breeze-In)',58.295776,-134.431514
 540,'540','12th St & Egan Dr (Mtn Vw Senior Ctr)',58.302333,-134.425452
 541,'541','Auke Lk Way (U Of Alaska)',58.385041,-134.640505
-543,'543','Central Ave & Pine St',58.3604286,-134.5025092
-544,'544','Lund St & Patti Ave',58.3604309,-134.4983556
 545,'545','Glacier Hwy & Wickersham St (1900 Glacier Hwy)',58.3160409242205,-134.447721672775
 546,'546','Glacier Hwy & Davis Ave',58.35763,-134.50089
 547,'547','Savikko Rd @ Treadwell Ice Arena',58.274981,-134.390063
 548,'548','Riverside Dr & Riverwood Dr (Dimond Pk)',58.3778573,-134.5878759
 549,'549','Stephen Richards Memorial Dr & Coho Dr',58.383899,-134.581449
 560,'560','Glacier Hwy Opp Davis Ave',58.3577557296084,-134.501569374166
+562,'562','Taku Blvd & Aspen Ave',58.3952910038026,-134.566453381615
+563,'563','Taku Blvd & Taku Court',58.3975391699547,-134.569241982803
+564,'564','Opp 4338 Taku Blvd',58.3976371457136,-134.572401311743
+565,'565','Taku Blvd Before Albatross St',58.3976953358277,-134.576853436295
+566,'566','Taku Blvd & Wood Duck Ave',58.3962765876897,-134.579471050262
+567,'567','Julep St & Decoy Blvd',58.3953914056235,-134.58034274107
+568,'568','Julep St & Birch Ln',58.393075570227,-134.58029004304
+569,'569','Julep St & Division St',58.3908679079215,-134.580298025498
+570,'570','Julep St & Trio St',58.3890356234032,-134.580436892355
+571,'571','Julep St & Riverside Dr',58.3880429918989,-134.583025364418
 577,'577','Glacier Hwy & Jordan Ave (Nugget Mall)',58.3631153656652,-134.578756004866
 578,'578','Glacier Hwy & Jordan Ave (Nugget Mall / Jordan Crk Ctr)',58.3634128561921,-134.578704117886
 579,'579','Teal St Ctr / Teal St & Alpine Ave',58.3605327241703,-134.577520277357
+580,'580','Jordan Ave @ Mallard St (Nugget Mall)',58.362256853349,-134.579463518027
+601,'601','Vly TC B:1',58.3723235922323,-134.590493493214
+602,'602','Vly TC B:2',58.3724310318531,-134.590480826752
+603,'603','Vly TC B:3',58.3725251785779,-134.590468560129
+604,'604','Vly TC B:4',58.3724305941679,-134.590616597691
+605,'605','Vly TC B:5',58.3725249810964,-134.590612412763
 3476603,'542-moved','Juneau International Airport',58.359130630322,-134.581800718284
