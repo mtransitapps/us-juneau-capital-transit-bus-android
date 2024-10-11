@@ -13,7 +13,7 @@ You can install this application on the SD card but it is not recommended.
 This application is free and open-source:
 https://github.com/mtransitapps/us-juneau-capital-transit-bus-android
 
-The information comes from the GTFS file provided by the Trillium.
+The information comes from the GTFS file provided by Trillium Transit.
 http://data.trilliumtransit.com/gtfs/cityandboroughofjuneau-ak-us/
 
-This app is not related with the City and Borough of Juneau and Capital Transit System.
+This app is not related to the City and Borough of Juneau and Capital Transit System.
