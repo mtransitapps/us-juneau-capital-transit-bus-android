@@ -5,7 +5,6 @@ import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
 import org.mtransit.parser.DefaultAgencyTools;
-import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
 
