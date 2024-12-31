@@ -4,6 +4,7 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.mtransit.commons.CharUtils;
 import org.mtransit.commons.CleanUtils;
+import org.mtransit.commons.Letters;
 import org.mtransit.parser.DefaultAgencyTools;
 import org.mtransit.parser.gtfs.data.GStop;
 import org.mtransit.parser.mt.data.MAgency;
@@ -50,6 +51,16 @@ public class JuneauCapitalTransitBusAgencyTools extends DefaultAgencyTools {
 	@Override
 	public boolean useRouteShortNameForRouteId() {
 		return true;
+	}
+
+	@Nullable
+	@Override
+	public Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
+		switch (routeShortName) {
+		case "UAS":
+			return Letters.U * 10_000 + Letters.A * 1_000 + Letters.S * 100;
+		}
+		return null;
 	}
 
 	@Override
