@@ -14,6 +14,7 @@ import java.util.Locale;
 
 // http://data.trilliumtransit.com/gtfs/cityandboroughofjuneau-ak-us/
 // http://data.trilliumtransit.com/gtfs/cityandboroughofjuneau-ak-us/cityandboroughofjuneau-ak-us.zip
+// TODO http://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/cityandboroughofjuneau-ak-us/service_alerts.proto
 public class JuneauCapitalTransitBusAgencyTools extends DefaultAgencyTools {
 
 	public static void main(@NotNull String[] args) {
@@ -113,7 +114,7 @@ public class JuneauCapitalTransitBusAgencyTools extends DefaultAgencyTools {
 		final String stopCode = gStop.getStopCode();
 		if (stopCode.isEmpty() || //
 				!CharUtils.isDigitsOnly(stopCode)) {
-			//noinspection deprecation
+			//noinspection DiscouragedApi
 			return Integer.parseInt(gStop.getStopId()); // fallback on stop ID
 		}
 		return Integer.parseInt(stopCode); // use stop code as stop ID
