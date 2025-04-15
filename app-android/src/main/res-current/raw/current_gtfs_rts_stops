@@ -1,7 +1,7 @@
 300,'300','Downtown TC',58.29973,-134.40874,0,1649999353
 401,'401','Willoughby Ave & Egan Dr (Centennial Hall)',58.30003,-134.41115,0,1649998369
-402,'402','Willoughby Ave & Whittier Way (ANB Hall)',58.30138,-134.41504,0,1649998391
-403,'403','Willoughy Ave & D St (Foodland IGA)',58.30069,-134.41836,0,1649998392
+402,'402','Willoughby Ave & Whittier St (Elizabeth Peratrovich Hall)',58.30138,-134.41504,0,1649998391
+403,'403','Willoughby Ave & D St (Foodland IGA)',58.30069,-134.41836,0,1649998392
 404,'404','Glacier Ave & 9th St (Federal Bldg)',58.30131,-134.42106,0,1649998393
 405,'405','Glacier Ave & 12th St',58.30278,-134.42300,0,1649998394
 406,'406','Glacier Ave & Behrends Ave (JDHS)',58.30473,-134.42687,0,1649998395
@@ -13,17 +13,17 @@
 412,'412','Glacier Hwy & Wire St (Twin Lks Playground)',58.33327,-134.47262,0,1649998423
 413,'413','Glacier Hwy & Blackerby St',58.33734,-134.48614,0,1649998424
 414,'414','Glacier Hwy & Craig St',58.34318,-134.49366,0,1649998425
-415,'415','Glacier Hwy @ Juneau Pioneers Home',58.34450,-134.49551,0,1649998426
+415,'415','Glacier Hwy @ Juneau Pioneers Home',58.34450,-134.49551,1,1649998426
 416,'416','Glacier Hwy & Hooter Ln (Vanderbilt Hl Rd)',58.34708,-134.49400,0,1649998427
 417,'417','Glacier Hwy & Short St (Western Auto)',58.35179,-134.49129,0,1649998428
-418,'418','Glacier Hwy & Tonsgard Court (Anka St)',58.35577,-134.49510,0,1649998429
+418,'418','Glacier Hwy & Anka St',58.35577,-134.49510,0,1649998429
 419,'419','Lemon Crk Rd & Lemon Crk Rd (Lemon Crk Turnaround)',58.36120,-134.48868,0,1649998430
 420,'420','Lemon Crk Rd & Churchill Rd',58.36035,-134.49234,1,1649998431
 421,'421','Davis Ave & Mtn Ave',58.35927,-134.49478,0,1649998453
-423,'423','Glacier Hwy & Alaway Ave',58.35967,-134.50783,0,1649998455
+423,'423','Glacier Hwy & Alaway Ave (JPD)',58.35967,-134.50783,0,1649998455
 424,'424','Glacier Hwy & Whitehead Dr (Switzer Vlg)',58.35937,-134.51572,0,1649998456
 425,'425','Glacier Hwy @ Dept Of Transportation',58.35902,-134.52797,0,1649998457
-426,'426','Glacier Hwy @ Glacier Gdns',58.35964,-134.55080,0,1649998458
+426,'426','Glacier Hwy @ Juneau Animal Rescue (Gdns)',58.35964,-134.55080,0,1649998458
 427,'427','Old Dairy Rd & Glacier Hwy (Fred Meyer)',58.35972,-134.55842,0,1649998459
 428,'428','Glacier Hwy & Shell Simmons Dr (Wells Fargo)',58.36302,-134.58365,0,1649998461
 429,'429','Glacier Hwy @ Vly Restaurant',58.36498,-134.58893,0,1649998462
@@ -44,17 +44,17 @@
 445,'445','Mendenhall Loop Rd & Spg Way (Goat Hl)',58.39371,-134.61645,0,1649999171
 446,'446','Mendenhall Loop Rd & Windfall Ave',58.39324,-134.62956,0,1649999172
 447,'447','Mendenhall Loop Rd & Auke Lk Way (UAS)',58.38876,-134.64242,0,1649999173
-448,'448','Glacier Hwy & Fritz Cv Rd',58.38197,-134.63451,0,1649999228
-449,'449','Glacier Hwy @ Auke Bay (Harbor) (Inbound)',58.38507,-134.64429,0,1649999174
+448,'448','Glacier Hwy & Fritz Cv Rd (Auke Lk)',58.38197,-134.63451,0,1649999228
+449,'449','Glacier Hwy @ Auke Bay (DeHarts)',58.38507,-134.64429,0,1649999174
 450,'450','Glacier Hwy & Engineers Cutoff Rd',58.37425,-134.62148,0,1649999197
 451,'451','Glacier Hwy & Sherwood Ln (DMV)',58.37214,-134.61490,0,1649999198
 452,'452','Glacier Hwy & Ind Blvd (Job Ctr)',58.37094,-134.60596,0,1649999199
 453,'453','Glacier Hwy & Berners Ave (Professional Plz)',58.36435,-134.58855,0,1649999201
-454,'454','Glacier Hwy & Cascade St (Nuvision FCU)',58.36279,-134.58269,0,1649999202
+454,'454','Glacier Hwy & Shell Simmons Dr (Airport Access)',58.36279,-134.58269,0,1649999202
 455,'455','Glacier Hwy & Wildmeadow Ln (Job Ctr)',58.37110,-134.60566,0,1649999203
 456,'456','Glacier Hwy & Sherwood Ln (DMV)',58.37240,-134.61495,0,1649999204
 457,'457','Glacier Hwy & Engineers Cutoff Rd',58.37406,-134.62044,0,1649999205
-459,'459','Glacier Hwy @ Auke Lk',58.38211,-134.63489,0,1649999175
+459,'459','Glacier Hwy @ Fritz Cv Rd (Auke Lk)',58.38211,-134.63489,0,1649999175
 460,'460','Glacier Hwy @ Auke Bay (Deharts)',58.38511,-134.64420,0,1649999229
 461,'461','Mendenhall Loop Rd & Auke Lk Way (UAS)',58.38927,-134.64118,0,1649999230
 462,'462','Mendenhall Loop Rd & Windfall Ave',58.39326,-134.62896,0,1649999231
@@ -64,7 +64,7 @@
 466,'466','Mendenhall Loop Rd & River Rd',58.40486,-134.58943,0,1649999235
 467,'467','Mendenhall Loop Rd @ Mendenhall River ES',58.40302,-134.58311,0,1649999236
 468,'468','Mendenhall Loop Rd & Mint Way',58.39926,-134.57696,0,1649999237
-469,'469','Mendenhall Loop Rd & Mendenhall Loop Rd (Dredge Lk)',58.39782,-134.56098,0,1649999259
+469,'469','Mendenhall Loop Rd & Dredge Lk Rd',58.39782,-134.56098,0,1649999259
 470,'470','Mendenhall Loop Rd & Thunder Mtn Rd',58.39410,-134.56449,0,1649999260
 471,'471','Mendenhall Loop Rd & Mendenhall Blvd',58.39079,-134.56834,0,1649999261
 472,'472','Mendenhall Loop Rd & El Camino St (Floyd Dryden MS)',58.38819,-134.57163,0,1649999262
@@ -74,11 +74,11 @@
 476,'476','Mendenhall Loop Rd & James Boulvard',58.37326,-134.58249,0,1649999266
 478,'478','Mendenhall Loop Rd & Del Rae Rd (Skate Pk)',58.36791,-134.58885,0,1649999268
 479,'479','Old Dairy Rd & Glacier Hwy (Fred Meyer)',58.35953,-134.55814,0,1649999290
-480,'480','Glacier Hwy @ Humane Society',58.35956,-134.55083,0,1649999291
+480,'480','Glacier Hwy @ Juneau Animal Rescue',58.35956,-134.55083,0,1649999291
 481,'481','Glacier Hwy @ Dept Of Transportation',58.35892,-134.52699,0,1649999292
 482,'482','Glacier Hwy & Renniger St (Switzer Vlg)',58.35924,-134.51394,0,1649999293
-483,'483','Glacier Hwy & Alaway Ave',58.35955,-134.50713,0,1649999294
-484,'484','Glacier Hwy & Tonsgard Court (Anka St)',58.35561,-134.49476,0,1649999295
+483,'483','Glacier Hwy & Alaway Ave (JPD)',58.35955,-134.50713,0,1649999294
+484,'484','Glacier Hwy & Anka St',58.35561,-134.49476,0,1649999295
 485,'485','Glacier Hwy & Short St (Western Auto)',58.35188,-134.49139,0,1649999296
 486,'486','Glacier Hwy & Hooter Ln (Vanderbilt Hl Rd)',58.34702,-134.49440,0,1649999297
 487,'487','Glacier Hwy & Craig St',58.34256,-134.49305,0,1649999298
@@ -86,8 +86,8 @@
 489,'489','Glacier Hwy & Wire St (Twin Lks Playground)',58.33318,-134.47282,0,1649999321
 490,'490','Glacier Hwy & Wickersham St (1900 Glacier Hwy)',58.31622,-134.44823,0,1649999322
 491,'491','Glacier Hwy @ 1547 Glacier Hwy (S Curves)',58.31329,-134.44366,0,1649999323
-492,'492','Glacier Hwy & Highland Dr (Breakwater Inn)',58.30622,-134.43080,0,1649999324
-493,'493','Glacier Hwy & Behrends Ave (JDHS)',58.30431,-134.42646,0,1649999325
+492,'492','Glacier Hwy & Highland Dr',58.30622,-134.43080,0,1649999324
+493,'493','Glacier Hwy & Behrends Ave (Highschool)',58.30431,-134.42646,0,1649999325
 494,'494','Glacier Hwy & 9th St (Federal Bldg)',58.30150,-134.42162,0,1649999326
 495,'495','Willoughby Ave & D St (Foodland IGA)',58.30066,-134.41800,0,1649999327
 496,'496','Whittier St @ State Museum',58.30029,-134.41456,0,1649999328
@@ -126,7 +126,7 @@
 545,'545','Glacier Hwy & Wickersham St (1900 Glacier Hwy)',58.31604,-134.44772,0,1650000136
 546,'546','Glacier Hwy & Davis Ave',58.35763,-134.50089,0,1650000158
 547,'547','Savikko Rd @ Treadwell Ice Arena',58.27498,-134.39006,0,1650000159
-560,'560','Glacier Hwy Opp Davis Ave',58.35776,-134.50157,0,1652081686
+560,'560','Glacier Hwy & Davis Ave',58.35776,-134.50157,0,1652081686
 561,'561','Riverside Dr & Stephen Richards Memorial Dr',58.38431,-134.58346,0,1652886258
 573,'573','Vintage Blvd & Clinton Dr',58.37200,-134.59750,1,386605782
 577,'577','Glacier Hwy & Jordan Ave (Nugget Mall)',58.36312,-134.57876,0,-443466712
