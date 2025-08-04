@@ -1,0 +1,14 @@
+{
+  "default_route_id_enabled": "true",
+  "use_route_short_name_for_route_id": "true",
+  "route_short_name_to_route_id_configs": [
+    {
+      "route_short_name": "UAS",
+      "route_id": "212900"
+    }
+  ],
+  "default_route_long_name_enabled": "true",
+  "trip_headsign_remove_via": "true",
+  "direction_finder_enabled": "true",
+  "use_stop_code_for_stop_id": "true"
+}
