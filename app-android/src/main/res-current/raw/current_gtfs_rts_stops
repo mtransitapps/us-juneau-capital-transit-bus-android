@@ -37,9 +37,6 @@
 438,'438','Thunder Mtn Rd & Mendenhall Loop Rd',58.39425,-134.56390,0,1649999143
 439,'439','Dredge Lk Rd & Mendenhall Loop Rd',58.39791,-134.56102,0,1649999144
 440,'440','Chelsea Court & Mendenhall Loop Rd',58.39893,-134.57521,0,1649999166
-441,'441','Mendenhall River ES @ Glacier Hwy',58.40326,-134.58327,0,1649999167
-442,'442','River Rd & Mendenhall Loop Rd',58.40484,-134.58941,0,1649999168
-443,'443','Montana Crk Rd & Mendenhall Loop Rd',58.40521,-134.59644,0,1649999169
 444,'444','Wren Dr & Mendenhall Loop Rd',58.40250,-134.60565,0,1649999170
 445,'445','Goat Hl @ Spg Way & Mendenhall Loop Rd',58.39372,-134.61642,0,1649999171
 446,'446','Windfall Ave & Mendenhall Loop Rd',58.39312,-134.62950,0,1649999172
@@ -59,10 +56,6 @@
 461,'461','UAS @ Auke Lk Way & Mendenhall Loop Rd',58.38912,-134.64130,0,1649999230
 462,'462','Windfall Ave & Mendenhall Loop Rd',58.39312,-134.62913,0,1649999231
 463,'463','Goat Hl @ Spg Way & Mendenhall Loop Rd',58.39394,-134.61600,0,1649999232
-464,'464','Wren Dr & Mendenhall Loop Rd',58.40240,-134.60566,0,1649999233
-465,'465','Montana Crk Rd & Mendenhall Loop Rd',58.40500,-134.59706,0,1649999234
-466,'466','River Rd & Mendenhall Loop Rd',58.40477,-134.58934,0,1649999235
-467,'467','Mendenhall River ES @ Glacier Hwy',58.40304,-134.58317,0,1649999236
 468,'468','Mint Way & Mendenhall Loop Rd',58.39910,-134.57661,0,1649999237
 469,'469','Dredge Lk Rd & Mendenhall Loop Rd',58.39783,-134.56105,0,1649999259
 470,'470','Taku Blvd & Mendenhall Loop Rd',58.39398,-134.56434,0,1649999260
@@ -125,6 +118,7 @@
 545,'545','Wickersham St & Glacier Hwy',58.31600,-134.44779,0,1650000136
 546,'546','Davis Ave & Glacier Hwy',58.35772,-134.50108,0,1650000158
 547,'547','Treadwell Ice Arena @ Savikko Rd',58.27495,-134.38993,0,1650000159
+548,'548','Riverside Dr & Riverwood Dr (Dimond Pk)',58.37786,-134.58788,0,1650000161
 560,'560','Davis Ave & Glacier Hwy',58.35778,-134.50153,0,1652081686
 561,'561','Stephen Richards Memorial Dr & Riverside Dr',58.38491,-134.58346,0,1652886258
 573,'573','Vintage Blvd & Clinton Dr',58.37219,-134.59730,1,386605782
@@ -140,3 +134,4 @@
 603,'603','Vly TC B:3',58.37265,-134.59069,1,-326201774
 604,'604','Vly TC B:4',58.37243,-134.59071,1,-326201796
 605,'605','Vly TC B:5',58.37226,-134.59072,1,-326201797
+900,'900','Steelhead St & Mendenhall Loop Rd',58.40424,-134.59920,0,387588633
