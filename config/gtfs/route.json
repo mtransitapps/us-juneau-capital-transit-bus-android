@@ -5,6 +5,10 @@
     {
       "route_short_name": "UAS",
       "route_id": "212900"
+    },
+    {
+      "route_short_name": "*",
+      "route_id": "999999"
     }
   ],
   "default_route_long_name_enabled": "true",
