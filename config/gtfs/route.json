@@ -14,5 +14,20 @@
   "default_route_long_name_enabled": "true",
   "trip_headsign_remove_via": "true",
   "direction_finder_enabled": "true",
-  "use_stop_code_for_stop_id": "true"
+  "stop_id_cleanup_regex": "[a-z]$",
+  "use_stop_code_for_stop_id": "true",
+  "stop_code_to_stop_id_configs": [
+    {
+      "stop_code": "UAS-1",
+      "stop_id": "212901"
+    },
+    {
+      "stop_code": "UAS-2",
+      "stop_id": "212902"
+    },
+    {
+      "stop_code": "UAS-3",
+      "stop_id": "212903"
+    }
+  ]
 }
