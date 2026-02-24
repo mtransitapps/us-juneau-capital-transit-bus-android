@@ -2,7 +2,14 @@
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <integer name="gtfs_real_time_db_version">1</integer>
     <string name="gtfs_real_time_for_poi_authority">@string/gtfs_rts_authority</string>
-    <string name="gtfs_real_time_agency_service_alerts_url">https://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/cityandboroughofjuneau-ak-us/service_alerts.proto</string>
-    <!-- need API key <string name="gtfs_real_time_agency_vehicle_positions_url">https://api.goswift.ly/real-time/juneau/gtfs-rt-vehicle-positions</string> -->
-    <!-- need API key <string name="gtfs_real_time_agency_trip_updates_url">https://api.goswift.ly/real-time/juneau/gtfs-rt-trip-updates</string> -->
+    <!-- <string name="gtfs_real_time_agency_service_alerts_url">https://gtfs-realtime.trilliumtransit.com/gtfs-realtime/feed/cityandboroughofjuneau-ak-us/service_alerts.proto</string> -->
+    <string name="gtfs_real_time_agency_service_alerts_url">https://api.goswift.ly/real-time/juneau/gtfs-rt-alerts/v2</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://api.goswift.ly/real-time/juneau/gtfs-rt-vehicle-positions</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://api.goswift.ly/real-time/juneau/gtfs-rt-trip-updates</string>
+    <string-array name="gtfs_real_time_agency_url_header_names">
+        <item>Authorization</item>
+    </string-array>
+    <string-array name="gtfs_real_time_agency_url_header_values">
+        <item>@string/swiftly_key</item>
+    </string-array>
 </resources>
