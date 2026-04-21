@@ -123,7 +123,6 @@
 539,'539','Breeze In @ Cordova St & Douglas Hwy',58.29589,-134.43160,0,1650000128
 540,'540','Mtn Vw Senior Ctr @ 12th St & Egan Dr',58.30245,-134.42500,0,1650000129
 541,'541','U Of Alaska',58.38488,-134.64052,0,1650000130
-542,'542','Juneau International Airport',58.35913,-134.58195,0,-440780871
 545,'545','Wickersham St & Glacier Hwy',58.31600,-134.44779,0,1650000136
 546,'546','Davis Ave & Glacier Hwy',58.35772,-134.50108,0,1650000158
 547,'547','Treadwell Ice Arena @ Savikko Rd',58.27495,-134.38993,0,1650000159
@@ -132,15 +131,11 @@
 573,'573','Vintage Blvd & Clinton Dr',58.37219,-134.59730,1,386605782
 577,'577','Nugget Mall & Jordan Crk Ctr @ Jordan Ave & Glacier Hwy',58.36315,-134.57882,0,-443466712
 578,'578','Nugget Mall & Jordan Crk Ctr @ Jordan Ave & Glacier Hwy',58.36338,-134.57869,0,-443466713
-580,'580','Nugget Mall @ Glacier Hwy & Jordan Ave',58.36241,-134.57953,1,-326176754
 582,'582','Mendenhall River ES @ Tournure St',58.40000,-134.58085,1,386569145
 583,'583','Pinedale St & Riverside Dr',58.39747,-134.58325,1,386569167
 584,'584','Taku Blvd & Riverside Dr',58.39565,-134.58333,1,386569168
 585,'585','Killewich Dr & Riverside Dr',58.39038,-134.58349,1,386569169
 586,'586','Gee St & Riverside Dr',58.38748,-134.58348,1,386569170
-589,'589b','Crest St & Aiport Blvd',58.35927,-134.57483,1,386632508
-590,'590','Airport Blvd & Old Dairy Rd',58.35926,-134.56817,1,386632509
-591,'591b','Teal St & Alpine Ave',58.36045,-134.57672,0,387673420
 601,'601','Vly TC B:1',58.37255,-134.59085,1,-326201772
 602,'602','Vly TC B:2',58.37271,-134.59085,1,-326201771
 603,'603','Vly TC B:3',58.37265,-134.59069,1,-326201774
