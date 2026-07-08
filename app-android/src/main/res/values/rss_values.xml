@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <string-array name="rss_feeds">
+        <item>https://juneaucapitaltransit.org/feed/</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://juneaucapitaltransit.org/favicon.ico</item>
+    </string-array>
+    <string-array name="rss_feeds_author_url">
+        <item>https://juneaucapitaltransit.org/news/</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>juneaucapitaltransit.org</item>
+    </string-array>
+</resources>
