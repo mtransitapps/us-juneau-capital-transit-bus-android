@@ -14,6 +14,7 @@
   "default_route_long_name_enabled": "true",
   "trip_headsign_remove_via": "true",
   "direction_finder_enabled": "true",
+  "direction_headsign_ignore_provided_direction": "true",
   "stop_id_cleanup_regex": "[a-z]$",
   "use_stop_code_for_stop_id": "true",
   "stop_id_not_supported_configs": [
