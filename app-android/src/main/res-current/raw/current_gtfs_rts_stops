@@ -5,7 +5,7 @@
 404,'404','Federal Bldg @ 9th St & Glacier Ave',58.30136,-134.42110,0,1649998393
 405,'405','12th St & Glacier Ave',58.30284,-134.42300,0,1649998394
 406,'406','JDHS @ Behrends Ave & Glacier Ave',58.30468,-134.42685,0,1649998395
-407,'407','Ross Way And Glacier Avenue',58.30758,-134.43361,0,1649998396
+407,'407','Ross Way & Glacier Avenue',58.30758,-134.43361,0,1649998396
 408,'408','S Curves @ 1547 Glacier Hwy',58.31327,-134.44343,0,1649998397
 409,'409','Bartlett Regional Hospital',58.32950,-134.46562,0,1649998399
 410,'410','SEARHC Clinic & Vly Medical Care @ Salmon Crk Ln',58.33099,-134.46598,0,1649998400
@@ -44,7 +44,7 @@
 446,'446','Windfall Ave & Mendenhall Loop Rd',58.39312,-134.62950,0,1649999172
 447,'447','UAS @ Auke Lk Way & Mendenhall Loop Rd',58.38871,-134.64240,0,1649999173
 448,'448','Fritz Cv Rd & Glacier Hwy',58.38210,-134.63520,0,1649999228
-449,'449','DeHarts And Auke Bay',58.38530,-134.64427,0,1649999174
+449,'449','DeHarts & Auke Bay',58.38530,-134.64427,0,1649999174
 450,'450','Engineers Cutoff Rd & Glacier Hwy',58.37417,-134.62151,0,1649999197
 451,'451','Sherwood Ln & Glacier Hwy',58.37204,-134.61485,0,1649999198
 452,'452','Job Ctr @ Ind Blvd & Glacier Hwy',58.37084,-134.60574,0,1649999199
@@ -54,7 +54,7 @@
 456,'456','Sherwood Ln & Glacier Hwy',58.37223,-134.61511,0,1649999204
 457,'457','Engineers Cutoff Rd & Glacier Hwy',58.37430,-134.62159,0,1649999205
 459,'459','Fritz Cv Rd & Glacier Hwy',58.38193,-134.63439,0,1649999175
-460,'460','DeHarts And Auke Bay',58.38507,-134.64414,0,1649999229
+460,'460','DeHarts & Auke Bay',58.38507,-134.64414,0,1649999229
 461,'461','UAS @ Auke Lk Way & Mendenhall Loop Rd',58.38912,-134.64130,0,1649999230
 462,'462','Windfall Ave & Mendenhall Loop Rd',58.39312,-134.62913,0,1649999231
 463,'463','Goat Hl @ Spg Way & Mendenhall Loop Rd',58.39394,-134.61600,0,1649999232
